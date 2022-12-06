@@ -3,7 +3,7 @@ public class Identifiers {
         double pi = 3.1416;
         int radio = 15; 
         double area = pi * (radio * radio); 
-        String message = "Resultado = "; 
+        String message = "Result = "; 
         System.out.println(message+area);
     }
 }
